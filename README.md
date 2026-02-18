@@ -1,0 +1,1 @@
+Zawiera ćwiczenia z analizy przeżycia. Obejmuje modele statystyczne do analizy czasu do zdarzenia, takie jak estymator Kaplana-Meiera, modele regresji Coxa oraz interpretację wyników w kontekście praktycznych problemów.
